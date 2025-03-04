@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "458532455372",
+    "project_id": "explorer-d2f9d",
+    "storage_bucket": "explorer-d2f9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458532455372:android:8f184d7059776d5ddbd369",
+        "android_client_info": {
+          "package_name": "rafael.furlan.com.explorer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwG93y8zjhJNJ_v02cdQQ4ah_6DCq3g68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
